@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.4" provider-name="mhancoc7">
+    <addon id="repository.mhancoc7.public" name="mhancoc7 Kodi Addons Repo" version="0.1.5" provider-name="mhancoc7">
         <requires>
             <import addon="xbmc.addon" version="12.0.0"/>
         </requires>
